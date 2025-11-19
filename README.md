@@ -19,9 +19,8 @@ This project is completed as part of a Tata Group job simulation hosted on the F
 
 #### Data Source
 
-•	Forage Simulation: Tata Data Visualisation
-
-•	<a href="https://www.theforage.com/simulations/tata/data-visualisation-p5xo">link</a>
+• Forage Simulation - Tata Data Visualisation: <a href="https://www.theforage.com/simulations/tata/data-visualisation-p5xo">link</a>
+• Raw Dataset: <a href=""> Link</a>.
 
 #### Tools Used
 
@@ -37,11 +36,11 @@ This project is completed as part of a Tata Group job simulation hosted on the F
 
 #### Project Assets
 
-•	Interactive Tableau Dashboard: <a href=" ">view here</a>
+•	Interactive Tableau Dashboard: <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Dashboard_17631801712060/DashboardOverview">view here</a>
 
-•	SQL Scripts for Data Preparation: <a href=" ">view here</a>
+•	SQL Scripts for Data Preparation: <a href="https://github.com/xuandinh22/Online-Retail-Revenue/blob/main/Data%20Cleaning.sql">view here</a>
 
-•	SQL Queries for Business Questions: <a href=" ">view here</a>
+•	SQL Queries for Business Questions: <a href="https://github.com/xuandinh22/Online-Retail-Revenue/blob/main/Data%20Analyzing.sql">view here</a>
 
 #### Data Structure Overview
 This is a transactional dataset containing all online retail transactions between 01/12/2010 and 09/12/2011 for a UK-based, non-store online retail business.
@@ -64,7 +63,7 @@ Country:	Categorical
 
 ## Executive Summary
 ### Overview of Findings
-Overall, the company generated $10.7M in revenue during the analysis period, with significant concentration across customers, regions, and products. A small number of high-value customers and countries drive the majority of revenue, while top-selling products are primarily fueled by bulk orders from key accounts rather than broad-based demand. Customer engagement is strong, with 64% placing repeat orders. Monthly revenue fluctuated throughout the year, suggesting the presence of seasonal patterns.
+Overall, the company generated $10.7M in revenue during the analysis period, with significant concentration across customers, regions, and products. A small number of high-value customers and countries drive the majority of revenue, while top-selling products are primarily fueled by bulk orders from key accounts rather than broad-based demand. Customer engagement is strong, with 64% placing repeat orders. Monthly revenue fluctuated throughout the year, suggesting the presence of seasonal patterns. Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded
 ### Insights
 #### 1. Product-Level Quantity Sold
 The two best-selling products are Paper Craft, Little Birdie (Product 23843) with 80,995 units sold generating $168K, and Medium Ceramic Top Storage Jar (Product 23166) with 78,033 units sold generating $78K. However, a closer examination reveals that these high volumes are driven by a small number of exceptionally large orders rather than broad-based demand.
