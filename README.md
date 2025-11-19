@@ -1,4 +1,4 @@
-# Online-Retail-Revenue
+# Online Retail Revenue
 ## Background and Overview
 This project is completed as part of a Tata Group job simulation hosted on the Forage website. The objective of the simulation is to approach data analysis from a business-leader perspective, focusing not only on technical execution but also on strategic thinking, clear communication, and actionable insights.
 
