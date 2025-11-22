@@ -99,8 +99,18 @@ Customer behavior demonstrates strong engagement, with approximately 64% making 
 </p>
 Pareto analysis reveals that 1,133 of 4,339 customers (26%) contribute 80% of total revenue, indicating significant concentration. However, this concentration is distributed rather than extreme: the top 10 customers generate approximately $1.5M (14% of total revenue), with the two highest contributors being CustomerID 14646 (Netherlands) at $280K and CustomerID 18102 (UK) at $260K. This pattern suggests the business depends on a substantial group of moderately high-value customers rather than a few dominant "whale" accounts. While this distribution reduces the risk of catastrophic revenue loss from a single customer departure, it still presents meaningful concentration risk given that roughly one-quarter of the customer base drives the vast majority of revenue.
 
-#### 5. Regional Revenue Concentration
-In international markets, the Netherlands and EIRE are key revenue-driving markets despite having only 9 and 3 customers. This revenue is largely driven by a few exceptionally high-value customers. In the top 10 customers by revenue, one Netherlands customer contributes $280K out of the country's $285K, and two EIRE customers contribute a combined $261K out of $283K. These three customers are among the company's largest contributors outside of the UK, highlighting that revenue from these regions depends heavily on a very small number of high-value clients.This creates significant concentration risk: losing a single key customer could eliminate most revenue from that country. At the lower end, Saudi Arabia, Bahrain, and the Czech Republic each generated under $1K, representing minimal market presence. The vast majority (3,921 of 4,339 customers) resides in the United Kingdom, indicating heavy dependence on the domestic market. 
+#### 5. International Market Revenue Concentration
+International markets show extreme revenue concentration risk. The Netherlands and Ireland lead international revenue at over $280K each, but this performance is deceptively fragile:
+
+• Netherlands: A single customer accounts for $280K of the $285K total (98%)
+
+• Ireland: Two customers drive $261K of the $283K total (92%)
+
+These three customers rank among the company's largest accounts globally, meaning international revenue hinges almost entirely on retaining a handful of high-value relationships. The loss of any one account would effectively eliminate that country's revenue contribution.
+
+At the other end of the spectrum, countries like Saudi Arabia, Bahrain, and the Czech Republic each generated less than $1K, indicating very limited market penetration.
+
+The company's customer base remains overwhelmingly domestic, with 3,921 of 4,339 customers (90%) located in the UK. This creates a structural dependency: domestic markets provide volume, while international performance relies on a dangerously narrow client base vulnerable to concentration risk.
 
 ## Recommendations
 1. Implement Risk Management for Bulk-Order Products:
