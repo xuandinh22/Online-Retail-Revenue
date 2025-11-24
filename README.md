@@ -80,6 +80,10 @@ Overall, the company generated $10.7M in revenue during the analysis period, wit
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/ae0db8b5-fe4b-40e9-b5c4-333a42556075" />
 </p>
 
+<p align="center">
+<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/857510b9-e45b-421e-a2a6-9c8b3026a394" />
+</p>
+
 The two best-selling products are Paper Craft, Little Birdie (Product 23843) with 80,995 units sold generating $168K, and Medium Ceramic Top Storage Jar (Product 23166) with 78,033 units sold generating $78K. However, a closer examination reveals that these high volumes are driven by a small number of exceptionally large orders rather than broad-based demand.
 Notably, a single high-quantity order of Product 23843 was placed in December by Customer 14646 (UK), while a remarkably large order of Product 23166 was placed in January by Customer 12346 (UK). This pattern indicates that the products' top-selling status is heavily influenced by bulk purchasing from a few key customers rather than consistent demand across the customer base.
 Conversely, other top-5 products (22197, 84077, and 85099B) show distributed sales across numerous customers rather than bulk order concentration, indicating broader market appeal and more stable demand patterns.
