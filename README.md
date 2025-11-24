@@ -92,7 +92,7 @@ Conversely, other top-5 products (22197, 84077, and 85099B) show distributed sal
 <p align="center">
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/db7ba53d-a93a-4897-9c8a-21c1d048a5b1" />
 </p>
-Revenue fluctuates significantly throughout the year, revealing clear seasonal patterns. February represents the lowest-revenue month, followed by weak performance in April and December. Most notably, revenue drops sharply from November ($1,509K) to December ($639K), a decline of approximately $870K (58%). This substantial decrease likely reflects post-holiday consumer behavior and year-end purchasing cycle timing, suggesting that November captures peak holiday spending while December experiences the typical post-seasonal slowdown.
+Revenue fluctuates significantly throughout the year, revealing clear seasonal patterns. February represents our trough period. Revenue accelerates through Q3 into Q4, reaching a peak of $1.5M in November, followed by a sharp 58% contraction to $639K in December. This substantial decrease likely reflects post-holiday consumer behavior and year-end purchasing cycle timing, suggesting that November captures peak holiday spending while December experiences the typical post-seasonal slowdown.
 
 #### 3. Customer Retention and Repeat Purchases
 Customer behavior demonstrates strong engagement, with approximately 64% making repeat purchases during the analysis period. Nearly two-thirds of customers returned for at least one additional transaction, contributing to revenue stability and indicating positive brand loyalty. However, the remaining 36% represent one-time buyers, presenting an opportunity for targeted retention strategies to convert first-time purchasers into repeat customers.
