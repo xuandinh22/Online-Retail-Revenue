@@ -14,7 +14,7 @@ This project is completed as part of a Tata Group job simulation hosted on the F
 
 1.  What are the top-selling products?
 2.	What is the monthly trend of revenue? Which months show the largest increases or decreases? (for the year 2011 only)
-3.	What percentage of customers are repeating their orders? (Exclude United Kingdom)
+3.	What percentage of customers are repeating their orders?
 4.	Who are the top customers and how much do they contribute to total revenue? Is revenue concentrated among a few customers, or is the customer base diversified?
 5.	Which regions generate the highest and lowest revenue? (Exclude United Kingdom)
 
