@@ -14,9 +14,9 @@ This project is completed as part of a Tata Group job simulation hosted on the F
 
 1.  What are the top-selling products?
 2.	What is the monthly trend of revenue? Which months show the largest increases or decreases? (for the year 2011 only)
-3.	What percentage of customers are repeating their orders?
-4.	Which regions generate the highest and lowest revenue? (Exclude United Kingdom)
-5.	Who are the top customers and how much do they contribute to total revenue? Is revenue concentrated among a few customers, or is the customer base diversified?
+3.	Which regions generate the highest and lowest revenue? (Exclude United Kingdom)
+4.	What percentage of customers are repeating their orders?
+6.	Who are the top customers and how much do they contribute to total revenue? Is revenue concentrated among a few customers, or is the customer base diversified?
 
 
 #### Data Source
@@ -95,10 +95,7 @@ Conversely, other top-5 products (22197, 84077, and 85099B) show distributed sal
 </p>
 Revenue fluctuates significantly throughout the year, revealing clear seasonal patterns. February represents our trough period. Revenue accelerates through Q3 into Q4, reaching a peak of $1.5M in November, followed by a sharp 58% contraction to $639K in December. This substantial decrease likely reflects post-holiday consumer behavior and year-end purchasing cycle timing, suggesting that November captures peak holiday spending while December experiences the typical post-seasonal slowdown.
 
-#### 3. Customer Retention and Repeat Purchases
-Customer behavior demonstrates strong engagement, with approximately 64% making repeat purchases during the analysis period. Nearly two-thirds of customers returned for at least one additional transaction, contributing to revenue stability and indicating positive brand loyalty. However, the remaining 36% represent one-time buyers, presenting an opportunity for targeted retention strategies to convert first-time purchasers into repeat customers.
-
-#### 4. International Market Revenue Concentration
+#### 3. International Market Revenue Concentration
 International markets show extreme revenue concentration risk. The Netherlands and Ireland lead international revenue at over $280K each, but this performance is deceptively fragile:
 
 • Netherlands: A single customer accounts for $280K of the $285K total (98%)
@@ -110,6 +107,9 @@ These three customers rank among the company's largest accounts globally, meanin
 At the other end of the spectrum, countries like Saudi Arabia, Bahrain, and the Czech Republic each generated less than $1K, indicating very limited market penetration.
 
 The company's customer base remains overwhelmingly domestic, with 3,921 of 4,339 customers (90%) located in the UK. This creates a structural dependency: domestic markets provide volume, while international performance relies on a dangerously narrow client base vulnerable to concentration risk.
+
+#### 4. Customer Retention and Repeat Purchases
+Customer behavior demonstrates strong engagement, with approximately 64% making repeat purchases during the analysis period. Nearly two-thirds of customers returned for at least one additional transaction, contributing to revenue stability and indicating positive brand loyalty. However, the remaining 36% represent one-time buyers, presenting an opportunity for targeted retention strategies to convert first-time purchasers into repeat customers.
 
 #### 5. Customer Concentration and Pareto Analysis
 <p align="center">
