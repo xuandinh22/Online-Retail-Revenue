@@ -15,8 +15,9 @@ This project is completed as part of a Tata Group job simulation hosted on the F
 1.  What are the top-selling products?
 2.	What is the monthly trend of revenue? Which months show the largest increases or decreases? (for the year 2011 only)
 3.	What percentage of customers are repeating their orders?
-4.	Who are the top customers and how much do they contribute to total revenue? Is revenue concentrated among a few customers, or is the customer base diversified?
-5.	Which regions generate the highest and lowest revenue? (Exclude United Kingdom)
+4.	Which regions generate the highest and lowest revenue? (Exclude United Kingdom)
+5.	Who are the top customers and how much do they contribute to total revenue? Is revenue concentrated among a few customers, or is the customer base diversified?
+
 
 #### Data Source
 
@@ -97,13 +98,7 @@ Revenue fluctuates significantly throughout the year, revealing clear seasonal p
 #### 3. Customer Retention and Repeat Purchases
 Customer behavior demonstrates strong engagement, with approximately 64% making repeat purchases during the analysis period. Nearly two-thirds of customers returned for at least one additional transaction, contributing to revenue stability and indicating positive brand loyalty. However, the remaining 36% represent one-time buyers, presenting an opportunity for targeted retention strategies to convert first-time purchasers into repeat customers.
 
-#### 4.Customer Concentration and Pareto Analysis
-<p align="center">
-<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/b5ecb2de-01b7-4024-b41d-0831af412ec8" />
-</p>
-Pareto analysis reveals that 1,133 of 4,339 customers (26%) contribute 80% of total revenue, indicating significant concentration. However, this concentration is distributed rather than extreme: the top 10 customers generate approximately $1.5M (14% of total revenue), with the two highest contributors being CustomerID 14646 (Netherlands) at $280K and CustomerID 18102 (UK) at $260K. This pattern suggests the business depends on a substantial group of moderately high-value customers rather than a few dominant "whale" accounts. While this distribution reduces the risk of catastrophic revenue loss from a single customer departure, it still presents meaningful concentration risk given that roughly one-quarter of the customer base drives the vast majority of revenue.
-
-#### 5. International Market Revenue Concentration
+#### 4. International Market Revenue Concentration
 International markets show extreme revenue concentration risk. The Netherlands and Ireland lead international revenue at over $280K each, but this performance is deceptively fragile:
 
 • Netherlands: A single customer accounts for $280K of the $285K total (98%)
@@ -115,6 +110,12 @@ These three customers rank among the company's largest accounts globally, meanin
 At the other end of the spectrum, countries like Saudi Arabia, Bahrain, and the Czech Republic each generated less than $1K, indicating very limited market penetration.
 
 The company's customer base remains overwhelmingly domestic, with 3,921 of 4,339 customers (90%) located in the UK. This creates a structural dependency: domestic markets provide volume, while international performance relies on a dangerously narrow client base vulnerable to concentration risk.
+
+#### 5. Customer Concentration and Pareto Analysis
+<p align="center">
+<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/b5ecb2de-01b7-4024-b41d-0831af412ec8" />
+</p>
+Pareto analysis reveals that 1,133 of 4,339 customers (26%) contribute 80% of total revenue, indicating significant concentration. However, this concentration is distributed rather than extreme: the top 10 customers generate approximately $1.5M (14% of total revenue), with the two highest contributors being CustomerID 14646 (Netherlands) at $280K and CustomerID 18102 (UK) at $260K. This pattern suggests the business depends on a substantial group of moderately high-value customers rather than a few dominant "whale" accounts. While this distribution reduces the risk of catastrophic revenue loss from a single customer departure, it still presents meaningful concentration risk given that roughly one-quarter of the customer base drives the vast majority of revenue.
 
 ## Recommendations
 1. Implement Risk Management for Bulk-Order Products:
