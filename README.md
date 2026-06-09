@@ -72,17 +72,17 @@ Overall, the company generated $10.7M in revenue during the analysis period, wit
 <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Dashboard_17631801712060/DashboardOverview">here</a>.
 
 <p align="center">
-<img width="1100" height="650" alt="image" src="https://github.com/user-attachments/assets/4e947975-afed-4eb7-af42-101009bb7d62" />
+<img width="1100" height="650" alt="image" src="https://github.com/user-attachments/assets/2d14bca7-46f8-41ca-8550-4d847314846b" />
 </p>
 
 #### 1. Product-Level Quantity Sold<p align="center">
 
 <p align="center">
-<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/ae0db8b5-fe4b-40e9-b5c4-333a42556075" />
+<img width="450" height="220" alt="image" src="https://github.com/user-attachments/assets/13b7b11d-065c-4338-b41f-35d9115f8931" />
 </p>
 
 <p align="center">
-<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/857510b9-e45b-421e-a2a6-9c8b3026a394" />
+<img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/857510b9-e45b-421e-a2a6-9c8b3026a394" />
 </p>
 
 The two best-selling products are Paper Craft, Little Birdie (Product 23843) with 80,995 units sold generating $168K, and Medium Ceramic Top Storage Jar (Product 23166) with 78,033 units sold generating $78K. However, a closer examination reveals that these high volumes are driven by a small number of exceptionally large orders rather than broad-based demand.
@@ -91,9 +91,10 @@ Conversely, other top-5 products (22197, 84077, and 85099B) show distributed sal
 
 #### 2. Monthly Revenue Trends and Seasonality
 <p align="center">
-<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/db7ba53d-a93a-4897-9c8a-21c1d048a5b1" />
+<img width="450" height="220" alt="image" src="https://github.com/user-attachments/assets/9cc7ed61-c0dd-47cc-8b7c-d85ecf8165d3" />
 </p>
-Revenue fluctuates significantly throughout the year, revealing clear seasonal patterns. February represents our trough period. Revenue accelerates through Q3 into Q4, reaching a peak of $1.5M in November, followed by a sharp 58% contraction to $639K in December. This substantial decrease likely reflects post-holiday consumer behavior and year-end purchasing cycle timing, suggesting that November captures peak holiday spending while December experiences the typical post-seasonal slowdown.
+
+In 2021, monthly revenue exhibited significant volatility around an $820K baseline, shifting from an extended slow period into a dramatic year-end spike. For the first eight months, revenue stagnated below average, hitting its lowest trough in February. However, performance accelerated sharply through Q3 and peaked at $1.5M in November, driven by concentrated holiday demand. This peak was immediately followed by a severe 58% contraction to $639K in December, reflecting a typical post-holiday slowdown. Ultimately, this heavy reliance on late-autumn volume creates an unstable monthly cash flow rather than steady, predictable revenue.
 
 #### 3. International Market Revenue Concentration
 International markets show extreme revenue concentration risk. The Netherlands and Ireland lead international revenue at over $280K each, but this performance is deceptively fragile:
@@ -113,7 +114,7 @@ Customer behavior demonstrates strong engagement, with approximately 64% making 
 
 #### 5. Customer Concentration and Pareto Analysis
 <p align="center">
-<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/b5ecb2de-01b7-4024-b41d-0831af412ec8" />
+<img width="450" height="220" alt="image" src="https://github.com/user-attachments/assets/b9487d5b-1397-4d4b-824c-e5ab5615b877" />
 </p>
 Pareto analysis reveals that 1,133 of 4,339 customers (26%) contribute 80% of total revenue, indicating significant concentration. However, this concentration is distributed rather than extreme: the top 10 customers generate approximately $1.5M (14% of total revenue), with the two highest contributors being CustomerID 14646 (Netherlands) at $280K and CustomerID 18102 (UK) at $260K. This pattern suggests the business depends on a substantial group of moderately high-value customers rather than a few dominant "whale" accounts. While this distribution reduces the risk of catastrophic revenue loss from a single customer departure, it still presents meaningful concentration risk given that roughly one-quarter of the customer base drives the vast majority of revenue.
 
