@@ -68,7 +68,7 @@ Country:	Categorical
 
 ## Executive Summary
 ### Overview of Findings
-Overall, the company generated $10.7M in revenue during the analysis period, with significant concentration across customers, regions, and products. A small number of high-value customers and countries drive the majority of revenue, while top-selling products are primarily fueled by bulk orders from key accounts rather than broad-based demand. Customer engagement is strong, with 64% placing repeat orders. Monthly revenue fluctuated throughout the year, suggesting the presence of seasonal patterns. Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded
+Overall, the company generated $10.7M in revenue during the analysis period, with significant concentration across customers, regions, and products. A small number of high-value customers and countries drive the majority of revenue, while top-selling products are primarily fueled by bulk orders from key accounts rather than broad-based demand. Monthly revenue exhibited significant volatility. Customer engagement is strong, with 64% placing repeat orders. Below is a snapshot from the Tableau dashboard; the full interactive dashboard can be downloaded
 <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Dashboard_17631801712060/DashboardOverview">here</a>.
 
 <p align="center">
