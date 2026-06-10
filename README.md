@@ -72,7 +72,7 @@ Overall, the company generated $10.7M in revenue during the analysis period, wit
 <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Dashboard_17631801712060/DashboardOverview">here</a>.
 
 <p align="center">
-<img width="1100" height="650" alt="image" src="https://github.com/user-attachments/assets/2d14bca7-46f8-41ca-8550-4d847314846b" />
+<img width="1100" height="650" alt="image" src="https://github.com/user-attachments/assets/469bd928-f68a-4661-a6b8-0b79a2036041" />
 </p>
 
 #### 1. Product-Level Quantity Sold<p align="center">
@@ -91,7 +91,7 @@ Conversely, other top-5 products (22197, 84077, and 85099B) show distributed sal
 
 #### 2. Monthly Revenue Trends
 <p align="center">
-<img width="450" height="220" alt="image" src="https://github.com/user-attachments/assets/9cc7ed61-c0dd-47cc-8b7c-d85ecf8165d3" />
+<img width="450" height="220" alt="image" src="https://github.com/user-attachments/assets/a13fc508-5544-4e99-a8ec-ffd8709f10e1" />
 </p>
 
 In 2021, monthly revenue exhibited significant volatility around an $820K baseline, shifting from an extended slow period into a dramatic year-end spike. For the first eight months, revenue stagnated below average, hitting its lowest trough in February. However, performance accelerated sharply through Q3 and peaked at $1.5M in November, driven by concentrated holiday demand. This peak was immediately followed by a severe 58% contraction to $639K in December, reflecting a typical post-holiday slowdown. Ultimately, this heavy reliance on late-autumn volume creates an unstable monthly cash flow rather than steady, predictable revenue.
