@@ -74,7 +74,7 @@ WHERE StockCode = '85123A'
 ;
 
 -- Calculate the percentage of Quantity values are negative
--- Less than 2%
+-- The percentage is less than 2%
 SELECT 
     COUNT(*) AS Total_Rows,
     COUNT(CASE WHEN Quantity < 0 THEN 1 END) AS Negative_Rows,
@@ -85,8 +85,8 @@ SELECT
 FROM [Online Retail]
 ;
 
--- Calculate the percentage of Quantity values are negative
--- Less than 0.1%
+-- Calculate the percentage of UnitPrice values are negative
+-- The percentage is less than 0.1%
 SELECT 
     COUNT(*) AS Total_Rows,
     COUNT(CASE WHEN UnitPrice < 0 THEN 1 END) AS Negative_Rows,
