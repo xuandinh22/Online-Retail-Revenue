@@ -125,6 +125,7 @@ To mitigate cash flow volatility in the interim, management should execute a tar
 3. Standardize Post-Purchase Workflows to Convert One-Time Buyers
 To optimize the 36% one-time buyer segment, the organization must implement targeted lifecycle retention strategies. It is recommended to deploy automated follow-up cadences, personalized product recommendations, and tailored loyalty incentives designed to lower acquisition friction and capture secondary conversions. Concurrently, management should execute a diagnostic behavioral analysis of the established repeat-customer segment to isolate the primary catalysts driving brand loyalty and systematically replicate those behaviors across new accounts.
 4. Execute a Dual Strategy of Market Expansion and Portfolio Protection
+
 To mitigate revenue concentration risk, the organization should execute a balanced growth-and-retention strategy by deploying targeted client acquisition frameworks alongside dedicated Key Account Management workflows for high-value accounts. Concurrently, management should optimize resource allocation by divesting from low-yield, under $1K markets, specifically Saudi Arabia, Bahrain, and the Czech Republic. These underutilized assets should be systematically reallocated to high-potential, high-velocity regions.
 
 
