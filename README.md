@@ -118,11 +118,14 @@ This pattern indicates that the business depends on a substantial cohort of mode
 
 ## Recommendations
 1. Implement Risk Management for Bulk-Order Products:
+
 Because high-volume products like 23843 and 23166 rely heavily on concentrated, single-instance purchases, treating them as standard inventory items poses a severe risk of over-purchasing and dead stock. It is recommended that management transition these specific SKUs strictly to an ad-hoc, on-demand fulfillment model. Core capital allocation and stock depth should be redirected toward products 22197, 84077, and 85099B, which exhibit highly predictable, decentralized consumption patterns.
 2. Establish a Longitudinal Seasonal Baseline and Adopt Rolling Forecasts:
+
 Given that the 2011 data represents a single annual cycle, establishing a definitive seasonal baseline requires further multi-year data validation. It is recommended that the organization closely monitor monthly revenue variance over the next 24 to 36 months to confirm true cyclical seasonality versus isolated annual anomalies.
 To mitigate cash flow volatility in the interim, management should execute a targeted transactional audit of the November 2011 spike to determine if it indicates repeatable Q4 consumer demand or a non-recurring corporate account. Concurrently, the business should transition from rigid annual budgeting to monthly rolling forecasts, updating revenue projections using real-time sales data to maximize operational agility.
 3. Standardize Post-Purchase Workflows to Convert One-Time Buyers
+
 To optimize the 36% one-time buyer segment, the organization must implement targeted lifecycle retention strategies. It is recommended to deploy automated follow-up cadences, personalized product recommendations, and tailored loyalty incentives designed to lower acquisition friction and capture secondary conversions. Concurrently, management should execute a diagnostic behavioral analysis of the established repeat-customer segment to isolate the primary catalysts driving brand loyalty and systematically replicate those behaviors across new accounts.
 4. Execute a Dual Strategy of Market Expansion and Portfolio Protection
 
